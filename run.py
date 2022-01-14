@@ -1,9 +1,3 @@
-import shapes
+from shapes.area import *
 
-
-
-print(shapes.square(2))
-print(shapes.circle(2))
-
-
-
+print(dir())

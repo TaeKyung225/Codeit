@@ -1,3 +1,3 @@
-from shapes.area import *
+from mymath.shapes import *
 
 print(dir())

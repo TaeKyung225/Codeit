@@ -1,3 +1,1 @@
-__all__ = ['area']
-
-
+from .area import *
